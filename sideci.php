@@ -1,3 +1,3 @@
 <?PHP
   $a = 'test';
-  echo $a
+  echo $b;
